@@ -1,0 +1,92 @@
+[
+    {
+        "nombre": "Campaña de Sensibilización",
+        "descripcion": "Trabajo realizado para el ramo Diseño de Información, donde se realizó un sistema de información que propiciara la desinformación y la desigmatización de las personas con cáncer pulmonar, a traves de procedimientos narrativos e informativos en múltiples medios.",
+        "fecha": "2024",
+        "signo": "servicio",
+        "foto": "https://github.com/user-attachments/assets/86f61044-5fad-4bee-8bbd-7807190efa46",
+        "fotos":"https://github.com/user-attachments/assets/ac4e566f-cf97-4f9c-81d5-87d5fcd6b0c6",
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Ideograma Amelié",
+        "descripcion": "Trabajo realizado para el ramo de Diseño de Información, en el cual se realizó una familia de íconos para una película, en esta caso Amelié, para posteriormente realizar una composición, basándose en el estilo del Isotype.",
+        "fecha": "2024",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/96ea61cc-eb84-4944-846a-ca9c24d42efb",
+        "fotos": "https://github.com/user-attachments/assets/dfbf2bea-1a75-4032-b5ff-24977587237a",
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Equita",
+        "descripcion": "Trabajo realizado para el Student Service Design Challenge enfocado en la mejora de la fragmentación del servicio de salud chileno, principalmente en la violencia gineclógica y obstétrica, donde se desarrollo un servicio de seguimiento tanto para la paciente como para el doctor, alivianando la ansiedad y tensión del momento de consulta, al acompañar antes y después de, además de ayudar al burnout de los especialistas, aprovechando de mejor manera los 15 minutos de consulta.",
+        "fecha": "2024",
+        "signo": "servicio",
+        "foto": "https://github.com/user-attachments/assets/d9880f41-9b95-49e4-9251-c7a00566a81d",
+        "fotos": "https://github.com/user-attachments/assets/2b7967b5-01ef-4c34-89b0-c4b8bae6cf3d",
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Kitu",
+        "descripcion": "Trabajo realizado para Taller 5: TIDE, donde se trabajo en conjunto con la empresa Balloon Latam en la región del Maule, en específico en las comunas de Hualañe, Vichquén y Licanté. Se desarrolló un kit para la creación y preparación de proyecto para la Cooperativa Turística Agroambiental que contiene dos pizarras de acrílico con distintas metodologías en conjunto con su respectivo manual, para que las personas puedan gestionar de mejor manera y practicar la gobernanza de los proyectos para su comunidad.",
+        "fecha": "2023",
+        "signo": "servicio",
+        "foto": "https://github.com/user-attachments/assets/89513044-1c00-46d5-89de-b3b0a6c78cdc",
+        "fotos": "https://github.com/user-attachments/assets/8853f30b-40a9-4f77-933a-ace5f0776e02",
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Monarca",
+        "descripcion": "Trabajo realizado para Taller 6: Industrial, donde se analizó el estilo de un diseñador en específico, en este caso de Brad Ascalon, para diseñar un mobiliario que representará su estilo.",
+        "fecha": "2023",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/5e9f585d-cb3a-4f2b-9bda-0ca8e753f3a5",
+        "fotos": "https://github.com/user-attachments/assets/b3821bd9-93bd-4296-bbec-517e7a15c565",
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "DinoRhythmn",
+        "descripcion": "Trabajo realizado para Taller 7: Lowtech, el cual se baso en el estudio de microorganismos marinos, fitoplacton y cianobacterias para la creación de un juego rítmico que educara jugando sobre el proceso de fotosíntesis bajo el agua y la absorción de distintos tipos de luz. Se realizaron las gráficas correspondientes al juego como un prototipo final.",
+        "fecha": "2024",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/ee895b85-7fe9-4f08-9f02-28551739cb94",
+        "fotos": "https://github.com/user-attachments/assets/89e70426-086f-4855-b931-d8c735008bb6",
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Mobiliario Yunus",
+        "descripcion": "Trabajo realizado para Taller 7: Industrial, donde se trabajo en conjunto con la municipalidad de Peñalolén, en específico, la Escuela Yunus, para desarrollar un sistema de puntos de información que valorizarán y expusieran los resultados de los distintos talleres que se llebaban acabo en el lugar.",
+        "fecha": "2023",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/34334602-735a-4fee-9de3-3f68b3f4b041",
+        "fotos": "https://github.com/user-attachments/assets/518d9f17-a2db-457f-8e60-1ee0da84cd7c",
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Atrapaniebla",
+        "descripcion": "Trabajo realizado para Taller 4: Producto, en el cual se trabajo en conjunto con la municipalidad de Renca, para generar distintos mobiliarios para el Cerro Renca. En este caso, se trabajo con la zona del atrapaniebla, que se encontraba en desuso, para genear un espacio de descanso y aprendizaje sobre el funcionamiento de este y sobre la flora del cerro.",
+        "fecha": "2022",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/d1bf36bf-e1b3-4671-9481-481738c23b91",
+        "fotos": "https://github.com/user-attachments/assets/f41a99f8-2ace-43b9-81f4-caaf0d9337d8",
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Catálogo Melissa",
+        "descripcion": "Trabajo realizado para la marca de moda Melissa, en donde se tuvo que desarrollar, diseñar, seleccionar y diagramar un catálogo de productos que represntará la identidad visual de la marca.",
+        "fecha": "2024",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/9e160cf9-62c9-447b-9d62-f4a6955b00c5",
+        "fotos": "https://github.com/user-attachments/assets/e2d78313-2e81-4751-96fd-95e9f3a81079",
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Branding Personal",
+        "descripcion": "Trabajo realizado para Taller 7: Lowtech, como parte de un desafío personal. Se desarrolló una identidad visual para una emprendedora de diseño de uñas, además de realizar un prototipo de la página web para ofrecer su servicio.",
+        "fecha": "2024",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/53e9ac47-17c6-4f44-9e4d-4916ff590664",
+        "fotos": "https://github.com/user-attachments/assets/ffc19861-0b30-46e0-b17b-ccfa38ee725e",
+        "github": "https://github.com/RenataVergara-lillo"
+    }
+]
